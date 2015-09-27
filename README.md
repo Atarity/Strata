@@ -1,6 +1,6 @@
 ##### Strata — раскладка клавиатуры для тех, кто любит Markdown и пишет по-русски
 
-[<img src="https://habrastorage.org/files/95c/796/f17/95c796f1789f485cb719d55c21a63519.jpg"/>](https://habrastorage.org/files/95c/796/f17/95c796f1789f485cb719d55c21a63519.jpg)
+[<img src="https://habrastorage.org/files/695/c88/7ad/695c887ad04a461aa32e28fb5747fa70.jpg"/>](https://habrastorage.org/files/695/c88/7ad/695c887ad04a461aa32e28fb5747fa70.jpg)
 
 Я сделал эту раскладку для того, чтобы исключить постоянную смену языков во время набора русских текстов использующих разметку [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Теперь символы вроде **#, < >, [ ]** всегда на кончиках пальцев.
 
@@ -22,4 +22,3 @@
 >Репозиторий состоит всего из двух файлов с расширением .klc — это конфиги для утилиты [Microsoft Keyboard Layout Creator](http://www.microsoft.com/en-us/download/details.aspx?id=22339). С её помощью вы можете самостоятельно изменить раскладку для Windows. Шлите пул-реквесты и оставляйте тикеты, если вам кажется, что вы сделали что-то важное.
 
 *Эта раскладка основана на [Типографской Раскладке Ильи Бирмана](http://ilyabirman.ru/projects/typography-layout/). Правда "типографского" в ней почти ничего не осталось.)*
-
