@@ -6,7 +6,7 @@
 
 Подсвеченные в шпаргалке символы вводятся с зажатой клавишей <kbd>Alt Gr</kbd> (т.н. "Правый Альт"). Для ввода символов из верхней строки вместе с <kbd>Alt Gr</kbd> нужно зажать ещё и <kbd>Shift</kbd>. Например сочетание <kbd>Alt Gr</kbd>+<kbd>3</kbd> даст **#**, а <kbd>Alt Gr</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd> даст **⅓** — всё просто. Для поддержания консистентности в архиве две раскладки — для русского и английского языков.
 
-[Скачать дистрибутив для Windows →](https://github.com/Atarity/Strata/releases/download/v0.1/Strata.Markdown.Layout.Installer.v01.zip)
+[Скачать дистрибутив для Windows →](https://github.com/Atarity/Strata/releases/download/v0.2/Strata.Markdown.Layout.Installer.v02.zip)
 
 ### FAQ
 **При попытке ввести кое-какие символы через <kbd>Alt Gr</kbd> некоторые приложения ведут себя странно. Почему?**
