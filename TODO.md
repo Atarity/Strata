@@ -17,6 +17,11 @@
 
 **Sublime Text 3**
 
+- <kbd>Alt Gr</kbd>+<kbd>-</kbd>
+- - <kbd>Alt Gr</kbd>+<kbd>o</kbd>
+
+**Sublime Text 3**
+
 - <kbd>Alt Gr</kbd>+<kbd>P</kbd> — Global
 - <kbd>Alt Gr</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> — Global
 - <kbd>Alt Gr</kbd>+<kbd>L</kbd> — Markdown Editing plugin
