@@ -15,6 +15,8 @@
 - [x] Проверить квадратные и круглые [диакритики из 20D0](http://unicode-table.com/ru/blocks/combining-diacritical-marks-for-symbols/) (проверил. Работает так себе.)
 - [x] Легенду под ISO/ANSI перерисовать? (нет)
 - [x] Выяснить что не так с <kbd>Alt Gr</kbd>+<kbd>L</kbd> в Sublime
+- [ ] Исправить легенду под v0.3, добавить минимум одну OEM кнопку
+- [ ] Сделать релиз v0.3 для MacOS
 - [ ] Нарисовать новые иконки для OSX
 - [ ] Фак расширить на OSX
 - [x] <kbd>Alt Gr</kbd>+<kbd>M</kbd> починить для вебовых Google Docs
@@ -30,7 +32,7 @@
 - [x] <kbd>Alt Gr</kbd>+<kbd>Q</kbd>
 - [x] <kbd>Alt Gr</kbd>+<kbd>R</kbd>
 - [x] <kbd>Alt Gr</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
-- [ ] <kbd>Alt Gr</kbd>+<kbd>I</kbd> (выпилено из раскладки)
+- [ ] <kbd>Alt Gr</kbd>+<kbd>I</kbd>
 - [x] <kbd>Alt Gr</kbd>+<kbd>O</kbd>
 - [x] <kbd>Alt Gr</kbd>+<kbd>P</kbd>
 - [x] <kbd>Alt Gr</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
