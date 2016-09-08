@@ -25,4 +25,4 @@
 
 >Репозиторий состоит всего из четырёх файлов. Для Win это расширение .klc — конфиги для утилиты [Microsoft Keyboard Layout Creator](http://www.microsoft.com/en-us/download/details.aspx?id=22339). С её помощью вы можете самостоятельно изменить раскладку для Windows. Для OS X файлы с расширением .keylayout можно отредактировать утилитой [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele). Шлите пул-реквесты и оставляйте тикеты, если вам кажется, что вы сделали что-то важное.
 
-*Эта раскладка основана на [Типографской Раскладке Ильи Бирмана](http://ilyabirman.ru/projects/typography-layout/).*
+*в качестве основы для Страты использовалась [типографская раскладка Ильи Бирмана](http://ilyabirman.ru/projects/typography-layout/).*
