@@ -1,4 +1,4 @@
-[<img src="https://habrastorage.org/files/695/c88/7ad/695c887ad04a461aa32e28fb5747fa70.jpg"/>](https://habrastorage.org/files/695/c88/7ad/695c887ad04a461aa32e28fb5747fa70.jpg)
+[<img src="https://github.com/Atarity/Strata/raw/master/History/v0.3.jpg"/>](https://github.com/Atarity/Strata/raw/master/History/v0.3.jpg)
 
 Я сделал эту раскладку чтобы исключить постоянную смену языков во время набора русских текстов использующих разметку [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Теперь символы вроде **#, < >, [ ]** всегда на кончиках пальцев.
 
