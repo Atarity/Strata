@@ -6,7 +6,7 @@
 
 [Скачать дистрибутив для Windows →](https://github.com/Atarity/Strata/releases/download/v0.3/Strata.Markdown.Layout.Installer.v03.zip)
 
-[Скачать установщик для OS X →](https://github.com/Atarity/Strata/releases/download/v02/Strata.Markdown.Layout.v02.dmg)
+[Скачать установщик для OS X →](https://github.com/Atarity/Strata/releases/download/v.0.3/Strata.Markdown.Layout.dmg)
 
 ### FAQ
 **При попытке ввести кое-какие символы через <kbd>Alt Gr</kbd> некоторые приложения ведут себя странно. Почему?**
