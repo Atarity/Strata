@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.0.108 on 2016-09-15 at 17:21 (GMT+4)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-04-16 at 11:51 (GMT+8)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
-<keyboard group="126" id="-20914" name="Russian — Strata Markdown" maxout="3">
+<keyboard group="126" id="-20870" name="Russian — Strata Markdown" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -431,12 +431,12 @@
 			<key code="42" output=""/>
 			<key code="43" output="«"/>
 			<key code="44" output="…"/>
-			<key code="45" output=""/>
+			<key code="45" output="✘"/>
 			<key code="46" output="−"/>
 			<key code="47" output="»"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output=""/>
+			<key code="50" output="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
@@ -1360,7 +1360,7 @@
 			<when state="none" output="Т"/>
 		</action>
 		<action id="`">
-			<when state="none" output="|"/>
+			<when state="none" output="~"/>
 			<when state="grave" output="̀"/>
 		</action>
 		<action id="cedilla">
