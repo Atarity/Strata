@@ -8,7 +8,8 @@
 
 [Скачать дистрибутив для Windows →](https://github.com/Atarity/Strata/releases/download/v0.3/Strata.Markdown.Layout.Installer.v03.zip)
 
-[Скачать установщик для OS X →](https://github.com/Atarity/Strata/releases/download/v.0.3/Strata.Markdown.Layout.dmg)
+[Скачать установщик для macOS →](https://github.com/Atarity/Strata/releases/download/v0.4.0/Strata.Markdown.Layout.0.4.0.dmg)
+
 
 ### FAQ
 **При попытке ввести  некоторые символы через <kbd>Alt Gr</kbd> приложения ведут себя странно. Почему?**
