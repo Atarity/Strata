@@ -8,7 +8,7 @@
 
 [Скачать дистрибутив для Windows →](https://github.com/Atarity/Strata/releases/download/v0.3/Strata.Markdown.Layout.Installer.v03.zip)
 
-[Скачать установщик для macOS →](https://github.com/Atarity/Strata/releases/download/v0.4.0/Strata.Markdown.Layout.0.4.0.dmg)
+[Скачать установщик для macOS →](https://github.com/Atarity/Strata/releases/download/v0.5.0/Strata.Markdown.050.dmg)
 
 
 ### FAQ
