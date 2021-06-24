@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.stratamarkdownlayout050</string>
+	<key>CFBundleName</key>
+	<string>Strata Markdown 050</string>
+	<key>CFBundleVersion</key>
+	<string>0.5.0</string>
+	<key>KLInfo_English — Strata Markdown</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.stratamarkdownlayout050.english—stratamarkdown</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Russian — Strata Markdown</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.stratamarkdownlayout050.russian—stratamarkdown</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+</dict>
+</plist>
