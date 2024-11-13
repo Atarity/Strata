@@ -1,0 +1,23 @@
+{
+  "description": "Change input source to En Strata by left_command; Ru Strata by right_command.",
+  "manipulators": [
+      {
+          "from": {
+              "key_code": "left_command",
+              "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "left_command" }],
+          "to_if_alone": [{ "select_input_source": { "input_source_id": "^org.sil.ukelele.keyboardlayout.stratamarkdownlayout050.english—stratamarkdown$" } }],
+          "type": "basic"
+      },
+      {
+          "from": {
+              "key_code": "right_command",
+              "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "right_command" }],
+          "to_if_alone": [{ "select_input_source": { "input_source_id": "^org.sil.ukelele.keyboardlayout.stratamarkdownlayout050.russian—stratamarkdown$" } }],
+          "type": "basic"
+      }
+  ]
+}
