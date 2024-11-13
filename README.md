@@ -22,7 +22,7 @@
 
 **Как удалить системную английскую раскладку в macOS после установки Страты?**
 
->[Вот этот вариант работает](https://apple.stackexchange.com/questions/44921/how-to-remove-or-disable-a-default-keyboard-layout) начиная с MacOS Big Sur.
+>[Вот этот вариант работает](https://apple.stackexchange.com/a/60521) начиная с MacOS Big Sur.
 
 **Как переключать раскладку клавиатуры в macOS по нажатию Caps Lock?**
 
